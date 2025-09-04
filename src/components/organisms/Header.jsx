@@ -1,6 +1,5 @@
 import React from "react"
 import ApperIcon from "@/components/ApperIcon"
-import QuickActions from "@/components/molecules/QuickActions"
 
 const Header = ({ title, subtitle, onMenuClick }) => {
   return (
@@ -25,7 +24,6 @@ const Header = ({ title, subtitle, onMenuClick }) => {
         </div>
 
         <div className="flex items-center space-x-4">
-          <QuickActions />
         </div>
       </div>
     </header>
