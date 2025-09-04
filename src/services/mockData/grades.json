@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "courseId": 1,
+    "category": "Assignments",
+    "weight": 40,
+    "earned": 180,
+    "total": 200
+  },
+  {
+    "Id": 2,
+    "courseId": 1,
+    "category": "Quizzes",
+    "weight": 25,
+    "earned": 85,
+    "total": 100
+  },
+  {
+    "Id": 3,
+    "courseId": 1,
+    "category": "Midterm Exam",
+    "weight": 35,
+    "earned": 82,
+    "total": 100
+  },
+  {
+    "Id": 4,
+    "courseId": 2,
+    "category": "Homework",
+    "weight": 30,
+    "earned": 270,
+    "total": 300
+  },
+  {
+    "Id": 5,
+    "courseId": 2,
+    "category": "Quizzes",
+    "weight": 30,
+    "earned": 75,
+    "total": 90
+  },
+  {
+    "Id": 6,
+    "courseId": 2,
+    "category": "Midterm",
+    "weight": 40,
+    "earned": 78,
+    "total": 100
+  },
+  {
+    "Id": 7,
+    "courseId": 3,
+    "category": "Essays",
+    "weight": 50,
+    "earned": 85,
+    "total": 100
+  },
+  {
+    "Id": 8,
+    "courseId": 3,
+    "category": "Participation",
+    "weight": 20,
+    "earned": 95,
+    "total": 100
+  },
+  {
+    "Id": 9,
+    "courseId": 3,
+    "category": "Final Project",
+    "weight": 30,
+    "earned": 88,
+    "total": 100
+  },
+  {
+    "Id": 10,
+    "courseId": 4,
+    "category": "Lab Reports",
+    "weight": 35,
+    "earned": 160,
+    "total": 180
+  },
+  {
+    "Id": 11,
+    "courseId": 4,
+    "category": "Quizzes",
+    "weight": 25,
+    "earned": 70,
+    "total": 90
+  },
+  {
+    "Id": 12,
+    "courseId": 4,
+    "category": "Midterm",
+    "weight": 40,
+    "earned": 75,
+    "total": 100
+  },
+  {
+    "Id": 13,
+    "courseId": 5,
+    "category": "Research Papers",
+    "weight": 40,
+    "earned": 175,
+    "total": 200
+  },
+  {
+    "Id": 14,
+    "courseId": 5,
+    "category": "Presentations",
+    "weight": 30,
+    "earned": 85,
+    "total": 100
+  },
+  {
+    "Id": 15,
+    "courseId": 5,
+    "category": "Final Exam",
+    "weight": 30,
+    "earned": 82,
+    "total": 100
+  }
+]

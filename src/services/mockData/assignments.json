@@ -1,0 +1,114 @@
+[
+  {
+    "Id": 1,
+    "courseId": 1,
+    "title": "Hello World Program",
+    "type": "assignment",
+    "dueDate": "2024-12-20T23:59:00",
+    "priority": "low",
+    "status": "completed",
+    "grade": 95,
+    "weight": 10,
+    "notes": "Basic programming exercise to get familiar with the development environment"
+  },
+  {
+    "Id": 2,
+    "courseId": 1,
+    "title": "Algorithm Analysis Essay",
+    "type": "assignment",
+    "dueDate": "2024-12-22T23:59:00",
+    "priority": "medium",
+    "status": "in-progress",
+    "weight": 15,
+    "notes": "Compare different sorting algorithms and their time complexities"
+  },
+  {
+    "Id": 3,
+    "courseId": 2,
+    "title": "Limits and Derivatives Quiz",
+    "type": "quiz",
+    "dueDate": "2024-12-23T14:00:00",
+    "priority": "high",
+    "status": "not-started",
+    "weight": 20,
+    "notes": "Covers chapters 2-3, bring calculator"
+  },
+  {
+    "Id": 4,
+    "courseId": 3,
+    "title": "Narrative Essay Draft",
+    "type": "assignment",
+    "dueDate": "2024-12-25T17:00:00",
+    "priority": "medium",
+    "status": "not-started",
+    "weight": 25,
+    "notes": "1500 words minimum, focus on personal experience"
+  },
+  {
+    "Id": 5,
+    "courseId": 4,
+    "title": "Lab Report: Molecular Weight",
+    "type": "assignment",
+    "dueDate": "2024-12-26T23:59:00",
+    "priority": "medium",
+    "status": "completed",
+    "grade": 88,
+    "weight": 15,
+    "notes": "Include all calculations and error analysis"
+  },
+  {
+    "Id": 6,
+    "courseId": 5,
+    "title": "Renaissance Art Presentation",
+    "type": "presentation",
+    "dueDate": "2024-12-27T10:00:00",
+    "priority": "high",
+    "status": "in-progress",
+    "weight": 30,
+    "notes": "15 minutes, visual aids required"
+  },
+  {
+    "Id": 7,
+    "courseId": 1,
+    "title": "Midterm Exam",
+    "type": "exam",
+    "dueDate": "2024-12-30T10:00:00",
+    "priority": "high",
+    "status": "not-started",
+    "weight": 35,
+    "notes": "Comprehensive exam covering all topics so far"
+  },
+  {
+    "Id": 8,
+    "courseId": 2,
+    "title": "Integration Problem Set",
+    "type": "assignment",
+    "dueDate": "2025-01-02T23:59:00",
+    "priority": "medium",
+    "status": "not-started",
+    "weight": 15,
+    "notes": "Problems 1-30 from chapter 4"
+  },
+  {
+    "Id": 9,
+    "courseId": 3,
+    "title": "Peer Review Workshop",
+    "type": "assignment",
+    "dueDate": "2025-01-03T15:00:00",
+    "priority": "low",
+    "status": "not-started",
+    "weight": 10,
+    "notes": "Review two classmates' essays and provide feedback"
+  },
+  {
+    "Id": 10,
+    "courseId": 4,
+    "title": "Chemical Reactions Quiz",
+    "type": "quiz",
+    "dueDate": "2025-01-05T11:00:00",
+    "priority": "medium",
+    "status": "not-started",
+    "weight": 20,
+    "notes": "Focus on balancing equations and reaction types"
+  }
+]

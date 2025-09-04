@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 1,
+    "name": "Introduction to Computer Science",
+    "code": "CS 101",
+    "instructor": "Dr. Sarah Johnson",
+    "schedule": "MWF 10:00-11:00 AM",
+    "location": "Room 204, Science Building",
+    "color": "#4F46E5",
+    "credits": 4,
+    "semester": "Fall 2024"
+  },
+  {
+    "Id": 2,
+    "name": "Calculus I",
+    "code": "MATH 141",
+    "instructor": "Prof. Michael Chen",
+    "schedule": "TTh 2:00-3:30 PM",
+    "location": "Room 105, Math Building",
+    "color": "#7C3AED",
+    "credits": 4,
+    "semester": "Fall 2024"
+  },
+  {
+    "Id": 3,
+    "name": "English Composition",
+    "code": "ENG 110",
+    "instructor": "Dr. Emily Rodriguez",
+    "schedule": "MWF 9:00-10:00 AM",
+    "location": "Room 301, Liberal Arts",
+    "color": "#EC4899",
+    "credits": 3,
+    "semester": "Fall 2024"
+  },
+  {
+    "Id": 4,
+    "name": "General Chemistry",
+    "code": "CHEM 151",
+    "instructor": "Dr. Robert Kim",
+    "schedule": "TTh 11:00-12:30 PM",
+    "location": "Lab 201, Chemistry Building",
+    "color": "#EF4444",
+    "credits": 4,
+    "semester": "Fall 2024"
+  },
+  {
+    "Id": 5,
+    "name": "World History",
+    "code": "HIST 101",
+    "instructor": "Prof. Lisa Anderson",
+    "schedule": "MWF 1:00-2:00 PM",
+    "location": "Room 150, History Building",
+    "color": "#F59E0B",
+    "credits": 3,
+    "semester": "Fall 2024"
+  },
+  {
+    "Id": 6,
+    "name": "Data Structures",
+    "code": "CS 201",
+    "instructor": "Dr. James Wilson",
+    "schedule": "TTh 3:30-5:00 PM",
+    "location": "Lab 305, Computer Science",
+    "color": "#10B981",
+    "credits": 4,
+    "semester": "Spring 2025"
+  }
+]
