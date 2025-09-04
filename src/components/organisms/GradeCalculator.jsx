@@ -70,7 +70,7 @@ const GradeCalculator = ({ courseId, course, onUpdate }) => {
       return
     }
 
-    try {
+try {
       const gradeData = {
         courseId: courseId,
         category: newCategory.category,
